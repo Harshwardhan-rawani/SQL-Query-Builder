@@ -1,4 +1,4 @@
-🔗 LinkDB
+#🔗 LinkDB
 Visual SQL Query Builder & Database Schema Designer
 
 Design databases visually. Build relationships intuitively. Export SQL instantly.
